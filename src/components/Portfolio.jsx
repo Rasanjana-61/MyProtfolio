@@ -13,23 +13,25 @@ function Portfolio() {
             description: 'A wellness mobile app for habit tracking, mood journaling, hydration reminders, and progress insights.',
             //technologies: ['Kotlin', 'SharedPreferences', 'Android Studio'],
             technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
-            link: '#'
+            link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
         },
         {
             image: '/portfolio3.jpg',
             title: 'Online garment management system',
             description: 'A web-based hotel booking system with secure backend staff and role management.',
             technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
-            link: '#'
+            link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
         },
+        
         {
             image: '/portfolio3.jpg',
             title: 'CrownCrest – Hotel Reservation System',
             description: 'A web-based hotel booking system with secure backend staff and role management.',
             technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
-            link: '#'
-        }
+            link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
         
+        }
+
     ];
 
     return (
@@ -49,6 +51,12 @@ function Portfolio() {
                                     <span key={techIndex} className="tech-tag">{tech}</span>
                                 ))}
                             </div>
+                            {item.link && item.link !== '#' && (
+                                <a href={item.link} target="_blank" rel="noopener noreferrer" className="github-link">
+                                    <i className='bx bxl-github'></i>
+                                    <span>Code</span>
+                                </a>
+                            )}
                         </div>
                     </div>
                 ))}
