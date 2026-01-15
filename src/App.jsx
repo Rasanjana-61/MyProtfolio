@@ -4,7 +4,7 @@ import Home from './components/Home'
 import About from './components/About'
 import Service from './components/Service'
 import Portfolio from './components/Portfolio'
-import Testimonial from './components/Testimonial'
+
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import ScrollReveal from 'scrollreveal'
@@ -19,7 +19,7 @@ function App() {
         });
 
         ScrollReveal().reveal('.home-content, .heading, .service-box', { origin: 'top' });
-        ScrollReveal().reveal('.slider-wrapper, button, .portfoli-box, form, .text-typing-about', { origin: 'bottom' });
+        ScrollReveal().reveal('button, .portfolio-card, form, .text-typing-about', { origin: 'bottom' });
         ScrollReveal().reveal('.home-content h1, .about-img img, .service-box p, .left-section-details, .footer-text, .social-media', { origin: 'left' });
         ScrollReveal().reveal('.text-about-content, .home-content p, .footer-icon', { origin: 'right' });
     }, []);
@@ -31,7 +31,7 @@ function App() {
             <About />
             <Service />
             <Portfolio />
-            <Testimonial />
+
             <Contact />
             <Footer />
         </>
