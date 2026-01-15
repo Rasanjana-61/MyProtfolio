@@ -2,16 +2,24 @@ function Portfolio() {
     const portfolioItems = [
         {
             image: '/portfolio1.jpg',
-            title: 'PackPal – Smart Bag Selling System',
+            title: 'Online food recipe management system',
             description: 'A full-stack bag-selling e-commerce system featuring authentication, customization, real-time stock updates, secure checkout, and admin dashboards.',
-            technologies: ['React', 'Node.js', 'MongoDB', 'Express'],
-            link: '#'
+            technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
+            link: 'https://github.com/Rasanjana-61/FinanceDashboard.git'
         },
         {
             image: '/portfolio2.jpg',
-            title: 'ZenTrack – Wellness & Habit Tracking App',
+            title: 'Car rental management system',
             description: 'A wellness mobile app for habit tracking, mood journaling, hydration reminders, and progress insights.',
-            technologies: ['Kotlin', 'SharedPreferences', 'Android Studio'],
+            //technologies: ['Kotlin', 'SharedPreferences', 'Android Studio'],
+            technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
+            link: '#'
+        },
+        {
+            image: '/portfolio3.jpg',
+            title: 'Online garment management system',
+            description: 'A web-based hotel booking system with secure backend staff and role management.',
+            technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
             link: '#'
         },
         {
@@ -21,6 +29,7 @@ function Portfolio() {
             technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
             link: '#'
         }
+        
     ];
 
     return (
