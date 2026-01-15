@@ -299,7 +299,7 @@ span {
 /* =====service CSS style ======== */
 
 .service {
-    background: #0a0e27;
+    background: var(--bg-color);
     text-align: center;
     padding: 10rem 9% 5rem;
 }
