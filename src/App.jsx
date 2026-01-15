@@ -31,7 +31,6 @@ function App() {
             <About />
             <Service />
             <Portfolio />
-
             <Contact />
             <Footer />
         </>
