@@ -1,4 +1,4 @@
-# Lucas Jacob - React Portfolio Website
+# Pramod Rasanjana - React Portfolio Website
 
 A modern, responsive personal portfolio website built with React and Vite, converted from the original HTML/CSS/JavaScript implementation.
 
