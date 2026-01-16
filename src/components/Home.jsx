@@ -4,7 +4,7 @@ import Typed from 'typed.js'
 function Home() {
     useEffect(() => {
         const typed = new Typed('.type-animation', {
-            strings: ['Frontend developer', 'Graphics designer', 'UI/UX designer'],
+            strings: ['fullstack developer', 'Mobile app developer', 'UI/UX designer'],
             typeSpeed: 50,
             loop: true,
             backSpeed: 50,
@@ -18,9 +18,9 @@ function Home() {
     return (
         <section className="home" id="home">
             <div className="home-content">
-                <h1>Hi I'm Lucas Jacob</h1>
+                <h1>Hi I'm Pramod Rasanjana</h1>
                 <h2>I am <span className="type-animation"></span></h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut assumenda cupiditate atque porro, quae, cumque, earum ad tenetur sint dolorum repellat! Sit, quod ullam, aliquam animi tempora voluptas dolorum in omnis expedita, est molestias accusantium.</p>
+                <p>I am a 3rd-year undergraduate at SLIIT with a strong academic background. I have hands-on experience in web development through industry-level projects and enjoy building practical, real-world applications.</p>
 
                 <div className="btn-group">
                     <button>Hire me</button>
@@ -29,8 +29,8 @@ function Home() {
 
                 <div className="social-media">
                     <a href="#"><i className='bx bxl-facebook'></i></a>
-                    <a href="#"><i className='bx bxl-github'></i></a>
-                    <a href="#"><i className='bx bxl-linkedin'></i></a>
+                    <a href="https://github.com/Rasanjana-61"><i className='bx bxl-github'></i></a>
+                    <a href="www.linkedin.com/in/pramodr001"><i className='bx bxl-linkedin'></i></a>
                 </div>
             </div>
         </section>
