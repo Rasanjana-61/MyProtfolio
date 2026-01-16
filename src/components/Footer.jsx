@@ -9,7 +9,7 @@ function Footer() {
 
     return (
         <footer>
-            <p className="footer-text">Copyright &copy; 2024 By Codejah | All Right Reserved</p>
+            <p className="footer-text">Copyright &copy; 2026 By Pramod | All Right Reserved</p>
             <div className="footer-icon">
                 <a href="#" onClick={scrollToTop}>
                     <i className='bx bx-up-arrow-alt'></i>
