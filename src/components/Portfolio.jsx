@@ -23,14 +23,14 @@ function Portfolio() {
             link: 'https://github.com/Rasanjana-61/FabricLK-Garment-Management-System.git'
         },
         
-        {
-            image: '/portfolio4.jpg',
-            title: 'CrownCrest – Hotel Reservation System',
-            description: 'A web-based hotel booking system with secure backend staff and role management.',
-            technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
-            link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
+        // {
+        //     image: '/portfolio4.jpg',
+        //     title: 'CrownCrest – Hotel Reservation System',
+        //     description: 'A web-based hotel booking system with secure backend staff and role management.',
+        //     technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
+        //     link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
         
-        }
+        // }
 
     ];
 
