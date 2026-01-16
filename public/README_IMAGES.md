@@ -53,7 +53,7 @@ Based on your updated portfolio items, you need:
 
 3. **Online garment management system**
    - Technologies: Java, JSP, SQL, Tomcat
-   - Image: portfolio3.jpg
+   - Image: portfolio3.jpg ✅ (Added: 2026-01-16)
 
 4. **CrownCrest – Hotel Reservation System**
    - Technologies: Java, JSP, SQL, Tomcat
