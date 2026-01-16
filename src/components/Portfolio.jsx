@@ -13,7 +13,7 @@ function Portfolio() {
             description: 'A web application for managing car rentals, allowing users to browse vehicles, select rental dates, make reservations, and manage bookings with secure authentication and an admin dashboard.',
             //technologies: ['Kotlin', 'SharedPreferences', 'Android Studio'],
             technologies: ['Java', 'JSP', 'SQL', 'Tomcat'],
-            link: 'https://github.com/Rasanjana-61/CarRentalSystem.git'
+            link: 'https://github.com/Rasanjana-61/online-car-rental-system.git'
         },
         {
             image: '/portfolio3.jpg',
