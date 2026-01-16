@@ -12,21 +12,21 @@ function Contact() {
                 <div className="address-contact">
                     <div className="address-list">
                         <span><i className='bx bx-map'></i></span>
-                        <p>Abuja, wusa zone 4. Nigeria</p>
+                        <p>Colombo, Sri Lanka</p>
                     </div>
                     <div className="address-list">
                         <span><i className='bx bx-phone'></i></span>
-                        <p>+23478790875890</p>
+                        <p>+94 70560 5698</p>
                     </div>
                     <div className="address-list">
                         <span><i className='bx bxs-envelope'></i></span>
-                        <p>lucasjacob11@gmail.com</p>
+                        <p>pramothrasanjana@gmail.com</p>
                     </div>
                     <br />
                     <div className="slide-link">
                         <a href="#"><i className='bx bxl-facebook'></i></a>
-                        <a href="#"><i className='bx bxl-github'></i></a>
-                        <a href="#"><i className='bx bxl-linkedin'></i></a>
+                        <a href="https://github.com/Rasanjana-61"><i className='bx bxl-github'></i></a>
+                        <a href="www.linkedin.com/in/pramodr001"><i className='bx bxl-linkedin'></i></a>
                     </div>
                 </div>
             </div>
