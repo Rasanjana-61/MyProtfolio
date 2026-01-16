@@ -40,7 +40,7 @@ function Header() {
 
     return (
         <header className={isSticky ? 'sticky' : ''}>
-            <h1 className="logo-top">Jacob</h1>
+            <h1 className="logo-top">Pramod</h1>
             <i
                 className={`bx ${isMenuOpen ? 'bx-x' : 'bx-menu'}`}
                 id="menu-icon"
