@@ -33,6 +33,10 @@ function Home() {
                     <a href="www.linkedin.com/in/pramodr001"><i className='bx bxl-linkedin'></i></a>
                 </div>
             </div>
+
+            <div className="home-img">
+                <img src="/home-photo.jpg" alt="Pramod Rasanjana" />
+            </div>
         </section>
     )
 }
