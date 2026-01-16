@@ -1,6 +1,6 @@
 # Pramod Rasanjana - React Portfolio Website
 
-A modern, responsive personal portfolio website built with React and Vite, converted from the original HTML/CSS/JavaScript implementation.
+A modern, responsive personal portfolio website built with React and Vite.
 
 ## 🚀 Features
 
@@ -159,7 +159,7 @@ npm run preview
 
 ## 📄 License
 
-Copyright © 2024 - All Rights Reserved
+Copyright © 2026 - All Rights Reserved
 
 ## 🤝 Contributing
 
@@ -167,9 +167,9 @@ Feel free to fork this project and customize it for your own portfolio!
 
 ## 📧 Contact
 
-- **Email**: lucasjacob11@gmail.com
-- **Location**: Abuja, Wusa Zone 4, Nigeria
-- **Phone**: +23478790875890
+- **Email**: pramothrasanjana@gmail.com
+- **Location**: Colombo, sri lanka
+- **Phone**: +94 70 560 5698
 
 ---
 
